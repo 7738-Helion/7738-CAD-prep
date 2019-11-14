@@ -1,0 +1,12 @@
+﻿Study Static Analysis:1 started: 11/14/2019, 9:03:06 PM
+Number of configurations: 1
+Default mesh: 125694 elements, 206380 nodes
+Mesh at contact 2 is too coarse
+Model separates into 2 independent components
+Soft spring was added
+Solution time 28.3s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 11/14/2019, 9:04:01 PM
+Total time 0:00:55
+
